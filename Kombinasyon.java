@@ -8,7 +8,6 @@ public class Kombinasyon {
         return carpim;
     }
     public static void main(String[] args) {
-      // kullanıcıdan n ve r'yi aldır
       Scanner sc=new Scanner (System.in);
       System.out.print("N: ");
       int n=sc.nextInt();
