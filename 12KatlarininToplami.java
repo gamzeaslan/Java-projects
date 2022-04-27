@@ -1,6 +1,6 @@
-package odev;
+package 12katlarinintoplami;
 import java.util.Scanner;
-public class Odev {
+public class 12KatlarininToplami {
     public static void main(String[] args) {
        Scanner sc=new Scanner (System.in);
        System.out.print("Sayı: ");
